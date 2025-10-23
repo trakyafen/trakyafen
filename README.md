@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="tr">
-<head>
+
+    <head>
+   
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>5B'NİN SANAL DİNAMOMETRESİ</title>
     <!-- Tailwind CSS CDN (v3) -->
+   
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Ekstra stil ve Inter fontu */
+        
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
         body {
             font-family: 'Inter', sans-serif;
